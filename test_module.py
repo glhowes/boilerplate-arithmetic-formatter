@@ -1,7 +1,7 @@
 import pytest
 
 from arithmetic_arranger import arithmetic_arranger
-
+ 
 test_cases = [
     pytest.param(
         [['3801 - 2', '123 + 49']],
